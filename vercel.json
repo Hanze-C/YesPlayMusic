@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://cors.hanze.icu/netease-api.hanze.icu/:match*"
+      "destination": "https://netease-api.hanze.icu/:match*"
     }
   ]
 }
